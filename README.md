@@ -81,6 +81,3 @@ git pull origin main
 
 
 Want to improve the project? Fork the repo and submit a pull request!
-
-You're all set! 🎉
-Let me know if you need any refinements in the guide. 
