@@ -1,0 +1,9 @@
+Flask
+python-dotenv
+pymupdf
+pytesseract
+pillow
+python-docx
+azure-ai-inference
+azure-core
+azure-ai-textanalytics
