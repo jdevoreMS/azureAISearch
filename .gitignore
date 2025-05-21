@@ -1,0 +1,45 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore logs and temporary files
+*.log
+*.sqlite3
+
+# Ignore environment variables and secrets
+.env
+.env.local
+.env.production
+
+# Ignore compiled files
+*.pyo
+*.pyd
+
+# Ignore system files (Mac & Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore coverage reports
+.coverage
+htmlcov/
+
+# Ignore VSCode settings (if applicable)
+.vscode/
+
+# Ignore JetBrains IDE settings (PyCharm)
+.idea/
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
+
+# Ignore node_modules (if using frontend tools)
+node_modules/
+
+# Ignore Flask cache files
+instance/
+*.bak
